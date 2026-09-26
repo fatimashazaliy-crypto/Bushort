@@ -1,0 +1,6 @@
+{
+  "name": "Bushort",
+  "description": "Premium short-form video social platform featuring a TikTok-style vertical feed, real-time messaging, comments, video creation, and user profiles.",
+  "prompt": "Rewrite Bushort short-form video social platform as a React application",
+  "capabilities": []
+}
